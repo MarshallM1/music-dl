@@ -1,0 +1,24 @@
+{
+  "name": "music-dl",
+  "version": "1.0.0",
+  "description": "yt music dler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarshallM1/music-dl.git"
+  },
+  "author": "Bailey Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarshallM1/music-dl/issues"
+  },
+  "homepage": "https://github.com/MarshallM1/music-dl#readme",
+  "dependencies": {
+    "node-id3": "^0.1.0",
+    "request": "^2.83.0",
+    "youtube-mp3-downloader": "^0.5.1"
+  }
+}
